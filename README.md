@@ -26,3 +26,4 @@ There are a couple of agnoster-ports for Oh-my-Fish as well:
 
 # Misc
 * [Lemnicola](https://github.com/marczuo/Lemnicola) - An agnoster-inspired Theme for Adium
+* [ragnoster](https://github.com/baweaver/ragnoster) - A ruby-script mimicking the agnoster-style
