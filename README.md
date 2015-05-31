@@ -17,6 +17,7 @@ Everyone who uses ZSH knows Oh-my-Zsh and the famous [agnoster](https://gist.git
 * [bgnoster](https://github.com/47bytes/bgnoster.zsh-theme)
 * [agitnoster](https://github.com/dbestevez/agitnoster-theme)
 * [molokai](https://github.com/prikhi/molokai-powerline-zsh) - For OMZ and antigen
+* [wade](https://github.com/wadehammes/wade.zsh-theme)
 
 ## Fish-Themes
 There are a couple of agnoster-ports for Oh-my-Fish as well:
