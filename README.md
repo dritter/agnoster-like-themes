@@ -11,6 +11,7 @@ Everyone who uses ZSH knows Oh-my-Zsh and the famous [agnoster](https://gist.git
 * [paradox](https://github.com/sorin-ionescu/prezto/blob/master/modules/prompt/functions/prompt_paradox_setup)
 * [agnoster-digitalformula](https://github.com/digitalformula/zsh.prompts)
 * [agnoster-zchee](https://github.com/zchee/agnoster)
+* [agnoster-refresh](https://github.com/fusion94/Agnoster-refresh)
 
 ## Fish-Themes
 There are a couple of agnoster-ports for Oh-my-Fish as well:
