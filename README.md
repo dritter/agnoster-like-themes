@@ -22,3 +22,6 @@ There are a couple of agnoster-ports for Oh-my-Fish as well:
 * [bobthefish](https://github.com/bpinto/oh-my-fish/tree/master/themes/bobthefish)
 * [budspencer](https://github.com/bpinto/oh-my-fish/tree/master/themes/budspencer)
 * [cbjohnson](https://github.com/bpinto/oh-my-fish/tree/master/themes/cbjohnson)
+
+# Misc
+* [Lemnicola](https://github.com/marczuo/Lemnicola) - An agnoster-inspired Theme for Adium
