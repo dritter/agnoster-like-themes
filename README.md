@@ -15,6 +15,7 @@ Everyone who uses ZSH knows Oh-my-Zsh and the famous [agnoster](https://gist.git
 * [agnoster-fcamblor](https://github.com/fcamblor/oh-my-zsh-agnoster-fcamblor)
 * [agnoster-fsegouin](https://github.com/fsegouin/oh-my-zsh-agnoster-mod-theme)
 * [bgnoster](https://github.com/47bytes/bgnoster.zsh-theme)
+* [agitnoster](https://github.com/dbestevez/agitnoster-theme)
 
 ## Fish-Themes
 There are a couple of agnoster-ports for Oh-my-Fish as well:
