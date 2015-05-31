@@ -13,6 +13,7 @@ Everyone who uses ZSH knows Oh-my-Zsh and the famous [agnoster](https://gist.git
 * [agnoster-zchee](https://github.com/zchee/agnoster)
 * [agnoster-refresh](https://github.com/fusion94/Agnoster-refresh)
 * [agnoster-fcamblor](https://github.com/fcamblor/oh-my-zsh-agnoster-fcamblor)
+* [agnoster-fsegouin](https://github.com/fsegouin/oh-my-zsh-agnoster-mod-theme)
 
 ## Fish-Themes
 There are a couple of agnoster-ports for Oh-my-Fish as well:
