@@ -29,5 +29,5 @@ There are a couple of agnoster-ports for Oh-my-Fish as well:
 * [cbjohnson](https://github.com/bpinto/oh-my-fish/tree/master/themes/cbjohnson)
 
 # Misc
-* [Lemnicola](https://github.com/marczuo/Lemnicola) - An agnoster-inspired Theme for Adium
-* [ragnoster](https://github.com/baweaver/ragnoster) - A ruby-script mimicking the agnoster-style
+* [Lemnicola](https://github.com/marczuo/Lemnicola) - An powerline-inspired Theme for Adium
+* [ragnoster](https://github.com/baweaver/ragnoster) - A ruby-script mimicking the powerline-style
