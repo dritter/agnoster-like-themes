@@ -31,3 +31,4 @@ There are a couple of agnoster-ports for Oh-my-Fish as well:
 # Misc
 * [Lemnicola](https://github.com/marczuo/Lemnicola) - An powerline-inspired Theme for Adium
 * [ragnoster](https://github.com/baweaver/ragnoster) - A ruby-script mimicking the powerline-style
+* [lightline](https://github.com/itchyny/lightline.vim) - A VIM statusbar
