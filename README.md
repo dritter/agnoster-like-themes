@@ -20,6 +20,7 @@ Everyone who uses ZSH knows Oh-my-Zsh and the famous [agnoster](https://gist.git
 * [wade](https://github.com/wadehammes/wade.zsh-theme)
 * [cobalt2](https://github.com/wesbos/Cobalt2-iterm)
 * [bullettrain](https://github.com/caiogondim/bullet-train-oh-my-zsh-theme) - For OMZ
+* [zsh.prompts](https://github.com/digitalformula/zsh.prompts) - For Prezto and YADR
 
 ## Fish-Themes
 There are a couple of agnoster-ports for Oh-my-Fish as well:
