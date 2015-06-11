@@ -23,6 +23,7 @@ Everyone who uses ZSH knows Oh-my-Zsh and the famous [agnoster](https://gist.git
 * [zsh.prompts](https://github.com/digitalformula/zsh.prompts) - For Prezto and YADR
 * [prezto-powerline](https://github.com/davidjrice/prezto_powerline) - For Prezto
 * [zsh2000](https://github.com/maverick2000/zsh2000) - For OMZ
+* [jeremyFreeAgent/oh-my-zsh-powerline-theme](https://github.com/jeremyFreeAgent/oh-my-zsh-powerline-theme) - For OMZ. Quite popular one.
 * [oh-my-zsh-solarized-powerline-theme](https://github.com/KuoE0/oh-my-zsh-solarized-powerline-theme) - For OMZ
 
 ## Fish-Themes
