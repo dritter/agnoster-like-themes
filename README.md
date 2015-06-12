@@ -24,7 +24,8 @@ Everyone who uses ZSH knows Oh-my-Zsh and the famous [agnoster](https://gist.git
 * [prezto-powerline](https://github.com/davidjrice/prezto_powerline) - For Prezto
 * [zsh2000](https://github.com/maverick2000/zsh2000) - For OMZ
 * [jeremyFreeAgent/oh-my-zsh-powerline-theme](https://github.com/jeremyFreeAgent/oh-my-zsh-powerline-theme) - For OMZ. Quite popular one.
-* [oh-my-zsh-solarized-powerline-theme](https://github.com/KuoE0/oh-my-zsh-solarized-powerline-theme) - For OMZ
+* [KuoE0/oh-my-zsh-solarized-powerline-theme](https://github.com/KuoE0/oh-my-zsh-solarized-powerline-theme) - For OMZ
+* [brucehsu/oh-my-zsh-powerline-theme](https://github.com/brucehsu/oh-my-zsh-powerline-theme)
 
 ## Fish-Themes
 There are a couple of agnoster-ports for Oh-my-Fish as well:
