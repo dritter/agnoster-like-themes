@@ -31,11 +31,11 @@ Everyone who uses ZSH knows Oh-my-Zsh and the famous [agnoster](https://gist.git
 
 ## Fish-Themes
 There are a couple of agnoster-ports for Oh-my-Fish as well:
-* [agnoster](https://github.com/bpinto/oh-my-fish/tree/master/themes/agnoster)
-* [agnoster-mercurial](https://github.com/bpinto/oh-my-fish/tree/master/themes/agnoster-mercurial)
-* [bobthefish](https://github.com/bpinto/oh-my-fish/tree/master/themes/bobthefish)
-* [budspencer](https://github.com/bpinto/oh-my-fish/tree/master/themes/budspencer)
-* [cbjohnson](https://github.com/bpinto/oh-my-fish/tree/master/themes/cbjohnson)
+* [agnoster](https://github.com/oh-my-fish/theme-agnoster)
+* [agnoster-mercurial](https://github.com/oh-my-fish/theme-agnoster-mercurial)
+* [bobthefish](https://github.com/oh-my-fish/theme-bobthefish)
+* [budspencer](https://github.com/oh-my-fish/theme-budspencer)
+* [cbjohnson](https://github.com/oh-my-fish/theme-cbjohnson)
 
 # Misc
 * [Lemnicola](https://github.com/marczuo/Lemnicola) - An powerline-inspired Theme for Adium
