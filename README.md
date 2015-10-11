@@ -28,6 +28,7 @@ Everyone who uses ZSH knows Oh-my-Zsh and the famous [agnoster](https://gist.git
 * [brucehsu/oh-my-zsh-powerline-theme](https://github.com/brucehsu/oh-my-zsh-powerline-theme)
 * [spowerline](https://mbauhardt.github.io/spowerline/) - For OMZ, written in Scala
 * [agnoster-tyranicmoron](https://github.com/MatthewCox/dotfiles/blob/master/ignored/omz-custom/agnoster-tyranicmoron.zsh-theme) - For OMZ
+* [powerline](https://github.com/leeqx/env-install/blob/master/powerline.zsh-theme)
 
 ## Fish-Themes
 There are a couple of agnoster-ports for Oh-my-Fish as well:
