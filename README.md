@@ -44,3 +44,4 @@ There are a couple of agnoster-ports for Oh-my-Fish as well:
 * [ragnoster](https://github.com/baweaver/ragnoster) - A ruby-script mimicking the powerline-style
 * [lightline](https://github.com/itchyny/lightline.vim) - A VIM statusbar
 * [promptline](https://github.com/edkolev/promptline.vim) - VIM prompt
+* [sbt-prompt](https://github.com/agemooij/sbt-prompt) - A prompt theme for the Scala Build Tool
