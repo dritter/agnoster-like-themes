@@ -31,6 +31,7 @@ Everyone who uses ZSH knows Oh-my-Zsh and the famous [agnoster](https://gist.git
 * [powerline](https://github.com/leeqx/env-install/blob/master/powerline.zsh-theme)
 * [statusline](https://github.com/el1t/statusline) - For Prezto and OMZ
 * [Eriner](https://github.com/Eriner/zim/blob/master/modules/prompt/themes/eriner.zsh-theme) - For zim
+* [powerline-train](https://github.com/jck-d-rpr/powerline-train) - For OMZ based on KuoE0/oh-my-zsh-solarized-powerline-theme
 
 ## Fish-Themes
 There are a couple of agnoster-ports for Oh-my-Fish as well:
