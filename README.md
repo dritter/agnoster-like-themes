@@ -1,11 +1,12 @@
 # agnoster-like-themes
 A small collection of agnoster-like Themes. The agnoster-Theme is originally inspired by [powerline-shell](https://github.com/milkbikis/powerline-shell), a python-script to spice up the shell.
 
-Everyone who uses ZSH knows Oh-my-Zsh and the famous [agnoster](https://gist.github.com/3712874)-Theme
+Everyone who uses ZSH knows Oh-my-Zsh and the famous [agnoster](https://github.com/agnoster/agnoster-zsh-theme)-Theme
 
 ## ZSH-Themes
 
 * [powerlevel9k ![](http://githubbadges.com/star.svg?user=bhilburn&repo=powerlevel9k&background=0879B9&color=fff&style=flat)](https://github.com/bhilburn/powerlevel9k)
+* [agnoster ![](http://githubbadges.com/star.svg?user=agnoster&repo=agnoster-zsh-theme&background=0879B9&color=fff&style=flat)](https://github.com/agnoster/agnoster-zsh-theme) - The original agnoster theme. This is the full github repo, ported from the old [gist](https://gist.github.com/3712874).
 * [tvline ![](http://githubbadges.com/star.svg?user=thvitt&repo=tvline&background=0879B9&color=fff&style=flat)](https://github.com/thvitt/tvline)
 * [oh-my-git ![](http://githubbadges.com/star.svg?user=arialdomartini&repo=oh-my-git&background=0879B9&color=fff&style=flat)](https://github.com/arialdomartini/oh-my-git) - Similar visual concept
 * [paradox](https://github.com/sorin-ionescu/prezto/blob/master/modules/prompt/functions/prompt_paradox_setup)
