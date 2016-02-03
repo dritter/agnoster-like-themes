@@ -59,6 +59,10 @@ There are a couple of agnoster-ports for Oh-my-Fish as well:
 * [budspencer ![](http://githubbadges.com/star.svg?user=oh-my-fish&repo=theme-budspencer&background=0879B9&color=fff&style=flat)](https://github.com/oh-my-fish/theme-budspencer)
 * [cbjohnson ![](http://githubbadges.com/star.svg?user=oh-my-fish&repo=theme-cbjohnson&background=0879B9&color=fff&style=flat)](https://github.com/oh-my-fish/theme-cbjohnson)
 
+## Bash
+
+* [bash-powerline ![](http://githubbadges.com/star.svg?user=riobard&repo=bash-powerline&background=0879B9&color=fff&style=flat)](https://github.com/riobard/bash-powerline)
+
 # Misc
 * [Lemnicola ![](http://githubbadges.com/star.svg?user=marczuo&repo=Lemnicola&background=0879B9&color=fff&style=flat)](https://github.com/marczuo/Lemnicola) - An powerline-inspired Theme for Adium
 * [ragnoster ![](http://githubbadges.com/star.svg?user=baweaver&repo=ragnoster&background=0879B9&color=fff&style=flat)](https://github.com/baweaver/ragnoster) - A ruby-script mimicking the powerline-style
