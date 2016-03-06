@@ -60,6 +60,7 @@ There are a couple of agnoster-ports for Oh-my-Fish as well:
 * [bobthefish ![](http://githubbadges.com/star.svg?user=oh-my-fish&repo=theme-bobthefish&background=0879B9&color=fff&style=flat)](https://github.com/oh-my-fish/theme-bobthefish)
 * [budspencer ![](http://githubbadges.com/star.svg?user=oh-my-fish&repo=theme-budspencer&background=0879B9&color=fff&style=flat)](https://github.com/oh-my-fish/theme-budspencer)
 * [cbjohnson ![](http://githubbadges.com/star.svg?user=oh-my-fish&repo=theme-cbjohnson&background=0879B9&color=fff&style=flat)](https://github.com/oh-my-fish/theme-cbjohnson)
+* [shellder ![](http://githubbadges.com/star.svg?user=simnalamburt&repo=shellder&background=0879B9&color=fff&style=flat)](https://github.com/simnalamburt/shellder)
 
 ## Bash
 
