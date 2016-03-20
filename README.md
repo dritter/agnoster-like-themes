@@ -39,6 +39,7 @@ All these rely on oh-my-ZSH.
 * [powerline ![](http://githubbadges.com/star.svg?user=leeqx&repo=env-install&background=0879B9&color=fff&style=flat)](https://github.com/leeqx/env-install/blob/master/powerline.zsh-theme)
 * [daveish/my-oh-my-zsh ![](http://githubbadges.com/star.svg?user=daveish&repo=my-oh-my-zsh&background=0879B9&color=fff&style=flat)](https://github.com/daveish/my-oh-my-zsh) - Based on JeremyFreeAgent/oh-my-zsh-powerline-theme with interesting color schemes
 * [zakaziko99/agnosterzak-ohmyzsh-theme ![](http://githubbadges.com/star.svg?user=zakaziko99&repo=agnosterzak-ohmyzsh-theme&background=0879B9&color=fff&style=flat)](https://github.com/zakaziko99/agnosterzak-ohmyzsh-theme)
+* [ciacho](https://github.com/Ciacho/ciacho-ohmyzsh-theme)
 
 ### Prezto Themes
 
