@@ -15,6 +15,7 @@ These Themes do not require a special framework (or are at least not specialized
 * [agnoster-refresh ![](http://githubbadges.com/star.svg?user=fusion94&repo=Agnoster-refresh&background=0879B9&color=fff&style=flat)](https://github.com/fusion94/Agnoster-refresh)
 * [molokai ![](http://githubbadges.com/star.svg?user=prikhi&repo=molokai-powerline-zsh&background=0879B9&color=fff&style=flat)](https://github.com/prikhi/molokai-powerline-zsh) - For OMZ and antigen
 * [statusline ![](http://githubbadges.com/star.svg?user=el1t&repo=statusline&background=0879B9&color=fff&style=flat)](https://github.com/el1t/statusline) - For Prezto and OMZ
+* [moonline](https://github.com/kagamilove0707/moonline.zsh) - Similar to the "flat" mode of powerlevel9k
 
 ### Oh-My-ZSH Themes
 
