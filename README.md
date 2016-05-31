@@ -79,3 +79,4 @@ There are a couple of agnoster-ports for Oh-my-Fish as well:
 * [PS-Config](https://github.com/chrisbenti/PS-Config) - A Powerline-Prompt for Windows PowerShell
 * [PS-Agnoster](https://github.com/JanJoris/PS-Agnoster) - A Agnoster port for PowerShell
 * [powerline](https://github.com/powerline/powerline/) - A VIM status line
+* [powerline-gitstatus](https://github.com/jaspernbrouwer/powerline-gitstatus) - A git plugin for the powerline status line
