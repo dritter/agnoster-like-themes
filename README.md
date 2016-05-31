@@ -37,7 +37,7 @@ All these rely on oh-my-ZSH.
 * [brucehsu/oh-my-zsh-powerline-theme ![](http://githubbadges.com/star.svg?user=brucehsu&repo=oh-my-zsh-powerline-theme&background=0879B9&color=fff&style=flat)](https://github.com/brucehsu/oh-my-zsh-powerline-theme)
 * [spowerline ![](http://githubbadges.com/star.svg?user=mbauhardt&repo=spowerline&background=0879B9&color=fff&style=flat)](https://mbauhardt.github.io/spowerline/) - For OMZ, written in Scala
 * [agnoster-tyranicmoron ![](http://githubbadges.com/star.svg?user=MatthewCox&repo=dotfiles&background=0879B9&color=fff&style=flat)](https://github.com/MatthewCox/dotfiles/blob/master/ignored/omz-custom/agnoster-tyranicmoron.zsh-theme) - For OMZ
-* [powerline ![](http://githubbadges.com/star.svg?user=leeqx&repo=env-install&background=0879B9&color=fff&style=flat)](https://github.com/leeqx/env-install/blob/master/powerline.zsh-theme)
+* [leeqx/powerline ![](http://githubbadges.com/star.svg?user=leeqx&repo=env-install&background=0879B9&color=fff&style=flat)](https://github.com/leeqx/env-install/blob/master/powerline.zsh-theme)
 * [daveish/my-oh-my-zsh ![](http://githubbadges.com/star.svg?user=daveish&repo=my-oh-my-zsh&background=0879B9&color=fff&style=flat)](https://github.com/daveish/my-oh-my-zsh) - Based on JeremyFreeAgent/oh-my-zsh-powerline-theme with interesting color schemes
 * [zakaziko99/agnosterzak-ohmyzsh-theme ![](http://githubbadges.com/star.svg?user=zakaziko99&repo=agnosterzak-ohmyzsh-theme&background=0879B9&color=fff&style=flat)](https://github.com/zakaziko99/agnosterzak-ohmyzsh-theme)
 * [ciacho](https://github.com/Ciacho/ciacho-ohmyzsh-theme)
@@ -78,3 +78,4 @@ There are a couple of agnoster-ports for Oh-my-Fish as well:
 * [sbt-prompt ![](http://githubbadges.com/star.svg?user=agemooji&repo=sbt-prompt&background=0879B9&color=fff&style=flat)](https://github.com/agemooij/sbt-prompt) - A prompt theme for the Scala Build Tool
 * [PS-Config](https://github.com/chrisbenti/PS-Config) - A Powerline-Prompt for Windows PowerShell
 * [PS-Agnoster](https://github.com/JanJoris/PS-Agnoster) - A Agnoster port for PowerShell
+* [powerline](https://github.com/powerline/powerline/) - A VIM status line
