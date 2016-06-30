@@ -77,7 +77,7 @@ There are a couple of agnoster-ports for Oh-my-Fish as well:
 * [promptline ![](http://githubbadges.com/star.svg?user=edkolev&repo=promptline&background=0879B9&color=fff&style=flat)](https://github.com/edkolev/promptline.vim) - VIM prompt
 * [sbt-prompt ![](http://githubbadges.com/star.svg?user=agemooji&repo=sbt-prompt&background=0879B9&color=fff&style=flat)](https://github.com/agemooij/sbt-prompt) - A prompt theme for the Scala Build Tool
 * [PS-Config](https://github.com/chrisbenti/PS-Config) - A Powerline-Prompt for Windows PowerShell
-* [PS-Agnoster](https://github.com/JanJoris/PS-Agnoster) - A Agnoster port for PowerShell
+* [oh-my-posh](https://github.com/JanJoris/oh-my-posh) - Oh-My-ZSH inspired PowerShell module, has an Agnoster and Paradox theme
 * [powerline](https://github.com/powerline/powerline/) - A VIM status line
 * [powerline-gitstatus](https://github.com/jaspernbrouwer/powerline-gitstatus) - A git plugin for the powerline status line
 * [vim-airline](https://github.com/vim-airline/vim-airline) - A VIM status line
