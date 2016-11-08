@@ -17,6 +17,7 @@ These Themes do not require a special framework (or are at least not specialized
 * [statusline ![](http://githubbadges.com/star.svg?user=el1t&repo=statusline&background=0879B9&color=fff&style=flat)](https://github.com/el1t/statusline) - For Prezto and OMZ
 * [moonline](https://github.com/kagamilove0707/moonline.zsh) - Similar to the "flat" mode of powerlevel9k
 * [bklyn-zsh](https://github.com/gporrata/bklyn-zsh) - Based on powerlevel9k
+* [pre-theme](https://github.com/leandromatos/pre-theme) - A theme for ZSH and much more
 
 ### Oh-My-ZSH Themes
 
