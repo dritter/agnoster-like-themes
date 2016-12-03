@@ -45,6 +45,7 @@ All these rely on oh-my-ZSH.
 * [zakaziko99/agnosterzak-ohmyzsh-theme ![](http://githubbadges.com/star.svg?user=zakaziko99&repo=agnosterzak-ohmyzsh-theme&background=0879B9&color=fff&style=flat)](https://github.com/zakaziko99/agnosterzak-ohmyzsh-theme)
 * [ciacho](https://github.com/Ciacho/ciacho-ohmyzsh-theme)
 * [remy](https://github.com/remy/dotfiles/blob/master/init/remy.zsh-theme)
+* [zsh_bandit](https://github.com/Holger-Will/zsh_bandit)
 
 ### Prezto Themes
 
