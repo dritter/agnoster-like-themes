@@ -46,6 +46,7 @@ All these rely on oh-my-ZSH.
 * [ciacho](https://github.com/Ciacho/ciacho-ohmyzsh-theme)
 * [remy](https://github.com/remy/dotfiles/blob/master/init/remy.zsh-theme)
 * [zsh_bandit](https://github.com/Holger-Will/zsh_bandit)
+* [alien](https://github.com/eendroroy/alien)
 
 ### Prezto Themes
 
