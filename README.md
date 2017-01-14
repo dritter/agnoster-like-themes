@@ -74,7 +74,7 @@ There are a couple of agnoster-ports for Oh-my-Fish as well:
 ## Bash
 
 * [bash-powerline ![](http://githubbadges.com/star.svg?user=riobard&repo=bash-powerline&background=0879B9&color=fff&style=flat)](https://github.com/riobard/bash-powerline)
-* [kruton/agnoster.bash](gist.github.com/kruton/8345450)
+* [kruton/agnoster.bash](https://gist.github.com/kruton/8345450)
 
 # Misc
 * [Lemnicola ![](http://githubbadges.com/star.svg?user=marczuo&repo=Lemnicola&background=0879B9&color=fff&style=flat)](https://github.com/marczuo/Lemnicola) - An powerline-inspired Theme for Adium
