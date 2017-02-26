@@ -19,6 +19,7 @@ These Themes do not require a special framework (or are at least not specialized
 * [bklyn-zsh](https://github.com/gporrata/bklyn-zsh) - Based on powerlevel9k
 * [pre-theme](https://github.com/leandromatos/pre-theme) - A theme for ZSH and much more
 * [syui/powerline](https://github.com/syui/powerline.zsh)
+* [powerless](https://github.com/martinrotter/powerless) - A pure ZSH theme
 
 ### Oh-My-ZSH Themes
 
