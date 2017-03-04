@@ -77,15 +77,18 @@ There are a couple of agnoster-ports for Oh-my-Fish as well:
 * [bash-powerline ![](http://githubbadges.com/star.svg?user=riobard&repo=bash-powerline&background=0879B9&color=fff&style=flat)](https://github.com/riobard/bash-powerline)
 * [kruton/agnoster.bash](https://gist.github.com/kruton/8345450)
 
+# PowerShell-Themes
+Even Windows has Powerline themes via PowerShell
+* [oh-my-posh](https://github.com/JanJoris/oh-my-posh) - Oh-My-ZSH inspired PowerShell module, has an Agnoster and Paradox theme
+* [PS-Config](https://github.com/chrisbenti/PS-Config) - A Powerline-Prompt for Windows PowerShell
+* [jaykul/PowerLine](https://github.com/jaykul/PowerLine) - Another Powerline-Prompt for Windows PowerShell
+
 # Misc
 * [Lemnicola ![](http://githubbadges.com/star.svg?user=marczuo&repo=Lemnicola&background=0879B9&color=fff&style=flat)](https://github.com/marczuo/Lemnicola) - An powerline-inspired Theme for Adium
 * [ragnoster ![](http://githubbadges.com/star.svg?user=baweaver&repo=ragnoster&background=0879B9&color=fff&style=flat)](https://github.com/baweaver/ragnoster) - A ruby-script mimicking the powerline-style
 * [lightline ![](http://githubbadges.com/star.svg?user=itchyny&repo=lightline.vim&background=0879B9&color=fff&style=flat)](https://github.com/itchyny/lightline.vim) - A VIM statusbar
 * [promptline ![](http://githubbadges.com/star.svg?user=edkolev&repo=promptline&background=0879B9&color=fff&style=flat)](https://github.com/edkolev/promptline.vim) - VIM prompt
 * [sbt-prompt ![](http://githubbadges.com/star.svg?user=agemooji&repo=sbt-prompt&background=0879B9&color=fff&style=flat)](https://github.com/agemooij/sbt-prompt) - A prompt theme for the Scala Build Tool
-* [PS-Config](https://github.com/chrisbenti/PS-Config) - A Powerline-Prompt for Windows PowerShell
-* [jaykul/PowerLine](https://github.com/jaykul/PowerLine) - Another Powerline-Prompt for Windows PowerShell
-* [oh-my-posh](https://github.com/JanJoris/oh-my-posh) - Oh-My-ZSH inspired PowerShell module, has an Agnoster and Paradox theme
 * [powerline](https://github.com/powerline/powerline/) - A VIM status line
 * [powerline-gitstatus](https://github.com/jaspernbrouwer/powerline-gitstatus) - A git plugin for the powerline status line
 * [vim-airline](https://github.com/vim-airline/vim-airline) - A VIM status line
