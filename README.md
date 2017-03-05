@@ -20,6 +20,7 @@ These Themes do not require a special framework (or are at least not specialized
 * [pre-theme](https://github.com/leandromatos/pre-theme) - A theme for ZSH and much more
 * [syui/powerline](https://github.com/syui/powerline.zsh)
 * [powerless](https://github.com/martinrotter/powerless) - A pure ZSH theme
+* [JushuaD84/shell-config](https://github.com/JoshuaD84/shell-config) - See [blog post](http://www.joshuad.net/zshrc-config/)
 
 ### Oh-My-ZSH Themes
 
