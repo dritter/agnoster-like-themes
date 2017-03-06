@@ -77,6 +77,7 @@ There are a couple of agnoster-ports for Oh-my-Fish as well:
 
 * [bash-powerline ![](http://githubbadges.com/star.svg?user=riobard&repo=bash-powerline&background=0879B9&color=fff&style=flat)](https://github.com/riobard/bash-powerline)
 * [kruton/agnoster.bash](https://gist.github.com/kruton/8345450)
+* [riobard/bash-powerline](https://github.com/riobard/bash-powerline)
 
 # PowerShell-Themes
 Even Windows has Powerline themes via PowerShell
