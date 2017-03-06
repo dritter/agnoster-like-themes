@@ -93,3 +93,4 @@ Even Windows has Powerline themes via PowerShell
 * [powerline](https://github.com/powerline/powerline/) - A VIM status line
 * [powerline-gitstatus](https://github.com/jaspernbrouwer/powerline-gitstatus) - A git plugin for the powerline status line
 * [vim-airline](https://github.com/vim-airline/vim-airline) - A VIM status line
+* [banga/powerline-shell](https://github.com/banga/powerline-shell) - Python-Script to output powerline shell
