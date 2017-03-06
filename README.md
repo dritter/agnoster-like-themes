@@ -21,6 +21,7 @@ These Themes do not require a special framework (or are at least not specialized
 * [syui/powerline](https://github.com/syui/powerline.zsh)
 * [powerless](https://github.com/martinrotter/powerless) - A pure ZSH theme
 * [JushuaD84/shell-config](https://github.com/JoshuaD84/shell-config) - See [blog post](http://www.joshuad.net/zshrc-config/)
+* [carlcarl/powerline-zsh](https://github.com/carlcarl/powerline-zsh)
 
 ### Oh-My-ZSH Themes
 
