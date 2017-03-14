@@ -63,6 +63,7 @@ All these rely on Prezto.
 * [agnoster-digitalformula ![](http://githubbadges.com/star.svg?user=digitalformula&repo=zsh.prompts&background=0879B9&color=fff&style=flat)](https://github.com/digitalformula/zsh.prompts)
 * [zsh.prompts ![](http://githubbadges.com/star.svg?user=digitalformula&repo=zsh.prompts&background=0879B9&color=fff&style=flat)](https://github.com/digitalformula/zsh.prompts) - For Prezto and YADR
 * [prezto-powerline ![](http://githubbadges.com/star.svg?user=davidjrice&repo=prezto_powerline&background=0879B9&color=fff&style=flat)](https://github.com/davidjrice/prezto_powerline) - For Prezto
+* [iggy](https://github.com/eugenk/zsh-prompt-iggy)
 
 ### ZIM Themes
 
