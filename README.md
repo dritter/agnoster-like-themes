@@ -22,6 +22,7 @@ These Themes do not require a special framework (or are at least not specialized
 * [powerless](https://github.com/martinrotter/powerless) - A pure ZSH theme
 * [JushuaD84/shell-config](https://github.com/JoshuaD84/shell-config) - See [blog post](http://www.joshuad.net/zshrc-config/)
 * [carlcarl/powerline-zsh](https://github.com/carlcarl/powerline-zsh)
+* [Powerzeesh](https://github.com/sevaho/Powerzeesh)
 
 ### Oh-My-ZSH Themes
 
