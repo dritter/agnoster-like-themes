@@ -51,6 +51,7 @@ All these rely on oh-my-ZSH.
 * [remy](https://github.com/remy/dotfiles/blob/master/init/remy.zsh-theme) - [Blog post](https://remysharp.com/2013/07/25/my-terminal-setup) about remys theme
 * [zsh_bandit](https://github.com/Holger-Will/zsh_bandit)
 * [alien](https://github.com/eendroroy/alien)
+* [adlee](https://github.com/adlee-was-taken/oh-my-zsh-osx/blob/master/oh-my-zsh/themes/adlee.zsh-theme)
 
 ### Prezto Themes
 
