@@ -54,6 +54,7 @@ All these rely on oh-my-ZSH.
 * [adlee](https://github.com/adlee-was-taken/oh-my-zsh-osx/blob/master/oh-my-zsh/themes/adlee.zsh-theme)
 * [agnosterAfro](https://github.com/afrozalm/agnosterAfro)
 * [cute](https://github.com/dogrocker/oh-my-zsh-powerline-cute-theme)
+* [intheloop](https://github.com/zyphrus/intheloop-powerline)
 
 ### Prezto Themes
 
