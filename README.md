@@ -52,6 +52,7 @@ All these rely on oh-my-ZSH.
 * [zsh_bandit](https://github.com/Holger-Will/zsh_bandit)
 * [alien](https://github.com/eendroroy/alien)
 * [adlee](https://github.com/adlee-was-taken/oh-my-zsh-osx/blob/master/oh-my-zsh/themes/adlee.zsh-theme)
+* [agnosterAfro](https://github.com/afrozalm/agnosterAfro)
 
 ### Prezto Themes
 
