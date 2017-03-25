@@ -23,7 +23,8 @@ These Themes do not require a special framework (or are at least not specialized
 * [JushuaD84/shell-config](https://github.com/JoshuaD84/shell-config) - See [blog post](http://www.joshuad.net/zshrc-config/)
 * [carlcarl/powerline-zsh](https://github.com/carlcarl/powerline-zsh)
 * [Powerzeesh](https://github.com/sevaho/Powerzeesh)
-* [klendathu](https://github.com/kegonomics/klendathu) 
+* [klendathu](https://github.com/kegonomics/klendathu)
+* [zsh-prompt-powerline](https://github.com/Valodim/zsh-prompt-powerline)
 
 ### Oh-My-ZSH Themes
 
