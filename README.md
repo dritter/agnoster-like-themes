@@ -25,6 +25,7 @@ These Themes do not require a special framework (or are at least not specialized
 * [statusline ![](http://githubbadges.com/star.svg?user=el1t&repo=statusline&background=0879B9&color=fff&style=flat)](https://github.com/el1t/statusline) - For Prezto and OMZ
 * [syui/powerline](https://github.com/syui/powerline.zsh)
 * [zsh-prompt-powerline](https://github.com/Valodim/zsh-prompt-powerline)
+* [keloran](https://github.com/Keloran/keloran.zsh-theme)
 
 ### Oh-My-ZSH Themes
 
