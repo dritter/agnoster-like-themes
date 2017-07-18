@@ -26,6 +26,7 @@ These Themes do not require a special framework (or are at least not specialized
 * [syui/powerline](https://github.com/syui/powerline.zsh)
 * [zsh-prompt-powerline](https://github.com/Valodim/zsh-prompt-powerline)
 * [keloran](https://github.com/Keloran/keloran.zsh-theme)
+* [bronze](https://github.com/reujab/bronze)
 
 ### Oh-My-ZSH Themes
 
