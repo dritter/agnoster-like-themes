@@ -11,6 +11,7 @@ These Themes do not require a special framework (or are at least not specialized
 
 * [agnoster ![](http://githubbadges.com/star.svg?user=agnoster&repo=agnoster-zsh-theme&background=0879B9&color=fff&style=flat)](https://github.com/agnoster/agnoster-zsh-theme) - The original agnoster theme. This is the full github repo, ported from the old [gist](https://gist.github.com/3712874).
 * [agnoster-refresh ![](http://githubbadges.com/star.svg?user=fusion94&repo=Agnoster-refresh&background=0879B9&color=fff&style=flat)](https://github.com/fusion94/Agnoster-refresh)
+* [alien](https://github.com/eendroroy/alien)
 * [bklyn-zsh](https://github.com/gporrata/bklyn-zsh) - Based on powerlevel9k
 * [carlcarl/powerline-zsh](https://github.com/carlcarl/powerline-zsh)
 * [JushuaD84/shell-config](https://github.com/JoshuaD84/shell-config) - See [blog post](http://www.joshuad.net/zshrc-config/)
@@ -33,7 +34,6 @@ These Themes do not require a special framework (or are at least not specialized
 All these rely on oh-my-ZSH.
 
 * [adlee](https://github.com/adlee-was-taken/oh-my-zsh-osx/blob/master/oh-my-zsh/themes/adlee.zsh-theme)
-* [alien](https://github.com/eendroroy/alien)
 * [agitnoster ![](http://githubbadges.com/star.svg?user=dbestevez&repo=agitnoster-theme&background=0879B9&color=fff&style=flat)](https://github.com/dbestevez/agitnoster-theme)
 * [agnoster-zchee ![](http://githubbadges.com/star.svg?user=zchee&repo=agnoster&background=0879B9&color=fff&style=flat)](https://github.com/zchee/agnoster)
 * [agnoster-fcamblor ![](http://githubbadges.com/star.svg?user=fcamblor&repo=oh-my-zsh-agnoster-fcamblor&background=0879B9&color=fff&style=flat)](https://github.com/fcamblor/oh-my-zsh-agnoster-fcamblor)
