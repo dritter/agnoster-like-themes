@@ -13,8 +13,10 @@ These Themes do not require a special framework (or are at least not specialized
 * [agnoster-refresh ![](http://githubbadges.com/star.svg?user=fusion94&repo=Agnoster-refresh&background=0879B9&color=fff&style=flat)](https://github.com/fusion94/Agnoster-refresh)
 * [alien](https://github.com/eendroroy/alien)
 * [bklyn-zsh](https://github.com/gporrata/bklyn-zsh) - Based on powerlevel9k
+* [bronze](https://github.com/reujab/bronze)
 * [carlcarl/powerline-zsh](https://github.com/carlcarl/powerline-zsh)
 * [JushuaD84/shell-config](https://github.com/JoshuaD84/shell-config) - See [blog post](http://www.joshuad.net/zshrc-config/)
+* [keloran](https://github.com/Keloran/keloran.zsh-theme)
 * [klendathu](https://github.com/kegonomics/klendathu)
 * [molokai ![](http://githubbadges.com/star.svg?user=prikhi&repo=molokai-powerline-zsh&background=0879B9&color=fff&style=flat)](https://github.com/prikhi/molokai-powerline-zsh) - For OMZ and antigen
 * [moonline](https://github.com/kagamilove0707/moonline.zsh)
@@ -27,8 +29,6 @@ These Themes do not require a special framework (or are at least not specialized
 * [statusline ![](http://githubbadges.com/star.svg?user=el1t&repo=statusline&background=0879B9&color=fff&style=flat)](https://github.com/el1t/statusline) - For Prezto and OMZ
 * [syui/powerline](https://github.com/syui/powerline.zsh)
 * [zsh-prompt-powerline](https://github.com/Valodim/zsh-prompt-powerline)
-* [keloran](https://github.com/Keloran/keloran.zsh-theme)
-* [bronze](https://github.com/reujab/bronze)
 
 ### Oh-My-ZSH Themes
 
@@ -55,12 +55,12 @@ All these rely on oh-my-ZSH.
 * [remy](https://github.com/remy/dotfiles/blob/master/init/remy.zsh-theme) - [Blog post](https://remysharp.com/2013/07/25/my-terminal-setup) about remys theme
 * [spowerline ![](http://githubbadges.com/star.svg?user=mbauhardt&repo=spowerline&background=0879B9&color=fff&style=flat)](https://mbauhardt.github.io/spowerline/) - For OMZ, written in Scala
 * [powerline-train ![](http://githubbadges.com/star.svg?user=jck-d-rpr&repo=powerline-train&background=0879B9&color=fff&style=flat)](https://github.com/jck-d-rpr/powerline-train) - For OMZ based on KuoE0/oh-my-zsh-solarized-powerline-theme
+* [termuxer](https://github.com/patrick330602/termuxer)
 * [tvline ![](http://githubbadges.com/star.svg?user=thvitt&repo=tvline&background=0879B9&color=fff&style=flat)](https://github.com/thvitt/tvline)
 * [wade ![](http://githubbadges.com/star.svg?user=wadehammes&repo=wade.zsh-theme&background=0879B9&color=fff&style=flat)](https://github.com/wadehammes/wade.zsh-theme)
 * [zakaziko99/agnosterzak-ohmyzsh-theme ![](http://githubbadges.com/star.svg?user=zakaziko99&repo=agnosterzak-ohmyzsh-theme&background=0879B9&color=fff&style=flat)](https://github.com/zakaziko99/agnosterzak-ohmyzsh-theme)
 * [zsh_bandit](https://github.com/Holger-Will/zsh_bandit)
 * [zsh2000 ![](http://githubbadges.com/star.svg?user=maverick2000&repo=zsh2000&background=0879B9&color=fff&style=flat)](https://github.com/maverick2000/zsh2000) - For OMZ
-* [termuxer](https://github.com/patrick330602/termuxer)
 
 ### Prezto Themes
 
