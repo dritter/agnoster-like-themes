@@ -26,6 +26,7 @@ These Themes do not require a special framework (or are at least not specialized
 * [powerline-go](https://github.com/justjanne/powerline-go) - Written in golang
 * [Powerzeesh](https://github.com/sevaho/Powerzeesh)
 * [pre-theme](https://github.com/leandromatos/pre-theme) - A theme for ZSH and much more
+* [pure-agnoster](https://github.com/yourfin/pure-agnoster) - An agnoster skin for the [pure](https://github.com/sindresorhus/pure) prompt
 * [statusline ![](http://githubbadges.com/star.svg?user=el1t&repo=statusline&background=0879B9&color=fff&style=flat)](https://github.com/el1t/statusline) - For Prezto and OMZ
 * [syui/powerline](https://github.com/syui/powerline.zsh)
 * [zsh-prompt-powerline](https://github.com/Valodim/zsh-prompt-powerline)
