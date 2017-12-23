@@ -11,6 +11,7 @@ These Themes do not require a special framework (or are at least not specialized
 
 * [agnoster ![](http://githubbadges.com/star.svg?user=agnoster&repo=agnoster-zsh-theme&background=0879B9&color=fff&style=flat)](https://github.com/agnoster/agnoster-zsh-theme) - The original agnoster theme. This is the full github repo, ported from the old [gist](https://gist.github.com/3712874).
 * [agnoster-refresh ![](http://githubbadges.com/star.svg?user=fusion94&repo=Agnoster-refresh&background=0879B9&color=fff&style=flat)](https://github.com/fusion94/Agnoster-refresh)
+* [agnoster-plus](https://github.com/jiahut/agnoster-plus.zsh-theme)
 * [alien](https://github.com/eendroroy/alien)
 * [bklyn-zsh](https://github.com/gporrata/bklyn-zsh) - Based on powerlevel9k
 * [bronze](https://github.com/reujab/bronze)
