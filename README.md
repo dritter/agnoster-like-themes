@@ -25,6 +25,7 @@ These Themes do not require a special framework (or are at least not specialized
 * [powerlevel9k ![](http://githubbadges.com/star.svg?user=bhilburn&repo=powerlevel9k&background=0879B9&color=fff&style=flat)](https://github.com/bhilburn/powerlevel9k)
 * [powerless](https://github.com/martinrotter/powerless) - A pure ZSH theme
 * [powerline-go](https://github.com/justjanne/powerline-go) - Written in golang
+* [powerline-pills-zsh](https://github.com/lucasqueiroz/powerline-pills-zsh)
 * [Powerzeesh](https://github.com/sevaho/Powerzeesh)
 * [pre-theme](https://github.com/leandromatos/pre-theme) - A theme for ZSH and much more
 * [statusline ![](http://githubbadges.com/star.svg?user=el1t&repo=statusline&background=0879B9&color=fff&style=flat)](https://github.com/el1t/statusline) - For Prezto and OMZ
