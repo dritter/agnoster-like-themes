@@ -30,6 +30,7 @@ These Themes do not require a special framework (or are at least not specialized
 * [pre-theme](https://github.com/leandromatos/pre-theme) - A theme for ZSH and much more
 * [statusline ![](http://githubbadges.com/star.svg?user=el1t&repo=statusline&background=0879B9&color=fff&style=flat)](https://github.com/el1t/statusline) - For Prezto and OMZ
 * [syui/powerline](https://github.com/syui/powerline.zsh)
+* [velocity](https://github.com/rahulsalvi/velocity)
 * [zsh-prompt-powerline](https://github.com/Valodim/zsh-prompt-powerline)
 
 ### Oh-My-ZSH Themes
