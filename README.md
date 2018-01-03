@@ -57,6 +57,7 @@ All these rely on oh-my-ZSH.
 * [leeqx/powerline ![](http://githubbadges.com/star.svg?user=leeqx&repo=env-install&background=0879B9&color=fff&style=flat)](https://github.com/leeqx/env-install/blob/master/powerline.zsh-theme)
 * [KuoE0/oh-my-zsh-solarized-powerline-theme ![](http://githubbadges.com/star.svg?user=KuoE0&repo=oh-my-zsh-solarized-powerline-theme&background=0879B9&color=fff&style=flat)](https://github.com/KuoE0/oh-my-zsh-solarized-powerline-theme) - For OMZ
 * [remy](https://github.com/remy/dotfiles/blob/master/init/remy.zsh-theme) - [Blog post](https://remysharp.com/2013/07/25/my-terminal-setup) about remys theme
+* [simple-agnoster](https://github.com/iwat/simple-agnoster.zsh-theme)
 * [spowerline ![](http://githubbadges.com/star.svg?user=mbauhardt&repo=spowerline&background=0879B9&color=fff&style=flat)](https://mbauhardt.github.io/spowerline/) - For OMZ, written in Scala
 * [jck-d-rpr/powerline-train ![](http://githubbadges.com/star.svg?user=jck-d-rpr&repo=powerline-train&background=0879B9&color=fff&style=flat)](https://github.com/jck-d-rpr/powerline-train) - For OMZ based on KuoE0/oh-my-zsh-solarized-powerline-theme
 * [sherubthakur/powerline-train](https://github.com/sherubthakur/powerline-train)
