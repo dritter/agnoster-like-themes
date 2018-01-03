@@ -42,6 +42,7 @@ All these rely on oh-my-ZSH.
 * [agnoster-zchee ![](http://githubbadges.com/star.svg?user=zchee&repo=agnoster&background=0879B9&color=fff&style=flat)](https://github.com/zchee/agnoster)
 * [agnoster-fcamblor ![](http://githubbadges.com/star.svg?user=fcamblor&repo=oh-my-zsh-agnoster-fcamblor&background=0879B9&color=fff&style=flat)](https://github.com/fcamblor/oh-my-zsh-agnoster-fcamblor)
 * [agnoster-fsegouin ![](http://githubbadges.com/star.svg?user=fsegouin&repo=oh-my-zsh-agnoster-mod-theme&background=0879B9&color=fff&style=flat)](https://github.com/fsegouin/oh-my-zsh-agnoster-mod-theme)
+* [agnoster-mod](https://github.com/fsegouin/oh-my-zsh-agnoster-mod-theme)
 * [agnoster-tyranicmoron ![](http://githubbadges.com/star.svg?user=MatthewCox&repo=dotfiles&background=0879B9&color=fff&style=flat)](https://github.com/MatthewCox/dotfiles/blob/master/ignored/omz-custom/agnoster-tyranicmoron.zsh-theme) - For OMZ
 * [agnosterAfro](https://github.com/afrozalm/agnosterAfro)
 * [bgnoster ![](http://githubbadges.com/star.svg?user=47bytes&repo=bgnoster.zsh-theme&background=0879B9&color=fff&style=flat)](https://github.com/47bytes/bgnoster.zsh-theme)
