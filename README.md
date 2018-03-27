@@ -16,6 +16,7 @@ These Themes do not require a special framework (or are at least not specialized
 * [bklyn-zsh](https://github.com/gporrata/bklyn-zsh) - Based on powerlevel9k
 * [bronze](https://github.com/reujab/bronze)
 * [carlcarl/powerline-zsh](https://github.com/carlcarl/powerline-zsh)
+* [PowerlevelHipstersmoothie](https://github.com/hipstersmoothie/PowerlevelHipstersmoothie) - Based on Powerlevel9k
 * [JushuaD84/shell-config](https://github.com/JoshuaD84/shell-config) - See [blog post](http://www.joshuad.net/zshrc-config/)
 * [keloran](https://github.com/Keloran/keloran.zsh-theme)
 * [klendathu](https://github.com/kegonomics/klendathu)
