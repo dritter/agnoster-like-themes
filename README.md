@@ -69,6 +69,7 @@ All these rely on oh-my-ZSH.
 * [zakaziko99/agnosterzak-ohmyzsh-theme ![](http://githubbadges.com/star.svg?user=zakaziko99&repo=agnosterzak-ohmyzsh-theme&background=0879B9&color=fff&style=flat)](https://github.com/zakaziko99/agnosterzak-ohmyzsh-theme)
 * [zsh_bandit](https://github.com/Holger-Will/zsh_bandit)
 * [zsh2000 ![](http://githubbadges.com/star.svg?user=maverick2000&repo=zsh2000&background=0879B9&color=fff&style=flat)](https://github.com/maverick2000/zsh2000) - For OMZ
+* [zsh-multiline](https://github.com/jan-auer/zsh-multiline)
 
 ### Prezto Themes
 
