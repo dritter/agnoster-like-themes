@@ -77,10 +77,10 @@ All these rely on Prezto.
 
 * [agnoster-digitalformula ![](http://githubbadges.com/star.svg?user=digitalformula&repo=zsh.prompts&background=0879B9&color=fff&style=flat)](https://github.com/digitalformula/zsh.prompts)
 * [iggy](https://github.com/eugenk/zsh-prompt-iggy)
+* [jemhuntr](https://gist.github.com/anonymous/f105a60d1e03f2c91328) - From [here](https://www.reddit.com/r/unixporn/comments/438cx6/archi3_reworking_my_zsh_prompt/)
 * [paradox](https://github.com/sorin-ionescu/prezto/blob/master/modules/prompt/functions/prompt_paradox_setup)
 * [prezto-powerline ![](http://githubbadges.com/star.svg?user=davidjrice&repo=prezto_powerline&background=0879B9&color=fff&style=flat)](https://github.com/davidjrice/prezto_powerline) - For Prezto
 * [zsh.prompts ![](http://githubbadges.com/star.svg?user=digitalformula&repo=zsh.prompts&background=0879B9&color=fff&style=flat)](https://github.com/digitalformula/zsh.prompts) - For Prezto and YADR
-
 
 ### ZIM Themes
 
