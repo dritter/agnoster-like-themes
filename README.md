@@ -117,6 +117,7 @@ Even Windows has Powerline themes via PowerShell
 * [Lemnicola ![](http://githubbadges.com/star.svg?user=marczuo&repo=Lemnicola&background=0879B9&color=fff&style=flat)](https://github.com/marczuo/Lemnicola) - An powerline-inspired Theme for Adium
 * [lightline ![](http://githubbadges.com/star.svg?user=itchyny&repo=lightline.vim&background=0879B9&color=fff&style=flat)](https://github.com/itchyny/lightline.vim) - A VIM statusbar
 * [powerline](https://github.com/powerline/powerline/) - A VIM status line
+* [powerline](https://github.com/milkypostman/powerline) - A Emacs status line
 * [powerline-gitstatus](https://github.com/jaspernbrouwer/powerline-gitstatus) - A git plugin for the powerline status line
 * [promptline ![](http://githubbadges.com/star.svg?user=edkolev&repo=promptline&background=0879B9&color=fff&style=flat)](https://github.com/edkolev/promptline.vim) - VIM prompt
 * [ragnoster ![](http://githubbadges.com/star.svg?user=baweaver&repo=ragnoster&background=0879B9&color=fff&style=flat)](https://github.com/baweaver/ragnoster) - A ruby-script mimicking the powerline-style
