@@ -36,6 +36,7 @@ These Themes do not require a special framework (or are at least not specialized
 * [velocity](https://github.com/rahulsalvi/velocity)
 * [zsh-prompt-newt](https://github.com/softmoth/zsh-prompt-newt)
 * [zsh-prompt-powerline](https://github.com/Valodim/zsh-prompt-powerline)
+* [zys-zsh-theme](https://github.com/ZYSzys/zys-zsh-theme)
 
 ### Oh-My-ZSH Themes
 
