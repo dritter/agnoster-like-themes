@@ -58,6 +58,7 @@ All these rely on oh-my-ZSH.
 * [cobalt2 ![](http://githubbadges.com/star.svg?user=wesbos&repo=Cobalt2-iterm&background=0879B9&color=fff&style=flat)](https://github.com/wesbos/Cobalt2-iterm)
 * [cute](https://github.com/dogrocker/oh-my-zsh-powerline-cute-theme)
 * [daveish/my-oh-my-zsh ![](http://githubbadges.com/star.svg?user=daveish&repo=my-oh-my-zsh&background=0879B9&color=fff&style=flat)](https://github.com/daveish/my-oh-my-zsh) - Based on JeremyFreeAgent/oh-my-zsh-powerline-theme with interesting color schemes
+* [droolscar](https://github.com/isuke/droolscar)
 * [intheloop](https://github.com/zyphrus/intheloop-powerline)
 * [jeremyFreeAgent/oh-my-zsh-powerline-theme ![](http://githubbadges.com/star.svg?user=jeremyFreeAgent&repo=oh-my-zsh-powerline-theme&background=0879B9&color=fff&style=flat)](https://github.com/jeremyFreeAgent/oh-my-zsh-powerline-theme) - For OMZ. Quite popular one.
 * [leeqx/powerline ![](http://githubbadges.com/star.svg?user=leeqx&repo=env-install&background=0879B9&color=fff&style=flat)](https://github.com/leeqx/env-install/blob/master/powerline.zsh-theme)
