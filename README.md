@@ -71,6 +71,7 @@ All these rely on oh-my-ZSH.
 * [jck-d-rpr/powerline-train ![](http://githubbadges.com/star.svg?user=jck-d-rpr&repo=powerline-train&background=0879B9&color=fff&style=flat)](https://github.com/jck-d-rpr/powerline-train) - For OMZ based on KuoE0/oh-my-zsh-solarized-powerline-theme
 * [sherubthakur/powerline-train](https://github.com/sherubthakur/powerline-train)
 * [termuxer](https://github.com/patrick330602/termuxer)
+* [tuurlijk.zsh-theme](https://github.com/Tuurlijk/dotfiles/blob/5ad4075c699d1c1771ea066fc2d1ebc1cf9e280a/.config/zsh/themes/tuurlijk.zsh-theme)
 * [tvline ![](http://githubbadges.com/star.svg?user=thvitt&repo=tvline&background=0879B9&color=fff&style=flat)](https://github.com/thvitt/tvline)
 * [wade ![](http://githubbadges.com/star.svg?user=wadehammes&repo=wade.zsh-theme&background=0879B9&color=fff&style=flat)](https://github.com/wadehammes/wade.zsh-theme)
 * [zakaziko99/agnosterzak-ohmyzsh-theme ![](http://githubbadges.com/star.svg?user=zakaziko99&repo=agnosterzak-ohmyzsh-theme&background=0879B9&color=fff&style=flat)](https://github.com/zakaziko99/agnosterzak-ohmyzsh-theme)
