@@ -32,6 +32,7 @@ These Themes do not require a special framework (or are at least not specialized
 * [Powerzeesh](https://github.com/sevaho/Powerzeesh)
 * [pre-theme](https://github.com/leandromatos/pre-theme) - A theme for ZSH and much more
 * [rb-zsh-theme](https://github.com/rberenguel/rb-zsh-theme)
+* [rougarou-zsh](https://github.com/RougarouTheme/rougarou-zsh) - A "flat" powerline theme
 * [statusline ![](http://githubbadges.com/star.svg?user=el1t&repo=statusline&background=0879B9&color=fff&style=flat)](https://github.com/el1t/statusline) - For Prezto and OMZ
 * [solarized-powerline](https://github.com/houjunchen/solarized-powerline)
 * [syui/powerline](https://github.com/syui/powerline.zsh)
