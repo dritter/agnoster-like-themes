@@ -1,5 +1,5 @@
 # agnoster-like-themes
-A small collection of agnoster-like Themes. The agnoster-Theme is originally inspired by [powerline-shell](https://github.com/milkbikis/powerline-shell), a python-script to spice up the shell.
+A small collection of agnoster-like Themes. The agnoster-Theme is originally inspired by [powerline](https://github.com/powerline/powerline/), a statusline plugin for vim.
 
 Everyone who uses ZSH knows Oh-my-Zsh and the famous [agnoster](https://github.com/agnoster/agnoster-zsh-theme)-Theme
 
