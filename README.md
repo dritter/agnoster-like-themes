@@ -31,6 +31,7 @@ These Themes do not require a special framework (or are at least not specialized
 * [powerline-pills-zsh](https://github.com/lucasqueiroz/powerline-pills-zsh)
 * [Powerzeesh](https://github.com/sevaho/Powerzeesh)
 * [pre-theme](https://github.com/leandromatos/pre-theme) - A theme for ZSH and much more
+* [pure-agnoster](https://github.com/yourfin/pure-agnoster) - An agnoster skin for the [pure](https://github.com/sindresorhus/pure) prompt
 * [rb-zsh-theme](https://github.com/rberenguel/rb-zsh-theme)
 * [rougarou-zsh](https://github.com/RougarouTheme/rougarou-zsh) - A "flat" powerline theme
 * [statusline ![](http://githubbadges.com/star.svg?user=el1t&repo=statusline&background=0879B9&color=fff&style=flat)](https://github.com/el1t/statusline) - For Prezto and OMZ
