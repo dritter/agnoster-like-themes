@@ -112,6 +112,7 @@ There are a couple of agnoster-ports for Oh-my-Fish as well:
 * [kruton/agnoster.bash](https://gist.github.com/kruton/8345450)
 * [riobard/bash-powerline](https://github.com/riobard/bash-powerline)
 * [undu/bash-powerline](https://github.com/undu/bash-powerline) - A pretty advanced fork of riobards powerline theme
+* [pureline](https://github.com/chris-marsh/pureline)
 * [speednator/agnoster-bash](https://github.com/speedenator/agnoster-bash)
 
 # PowerShell-Themes
