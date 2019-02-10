@@ -39,6 +39,7 @@ These Themes do not require a special framework (or are at least not specialized
 * [solarized-powerline](https://github.com/houjunchen/solarized-powerline)
 * [syui/powerline](https://github.com/syui/powerline.zsh)
 * [velocity](https://github.com/rahulsalvi/velocity)
+* [zsh-jwalter](https://github.com/jeffwalter/zsh-jwalter)
 * [zsh-prompt-newt](https://github.com/softmoth/zsh-prompt-newt)
 * [zsh-prompt-powerline](https://github.com/Valodim/zsh-prompt-powerline)
 * [zys-zsh-theme](https://github.com/ZYSzys/zys-zsh-theme)
