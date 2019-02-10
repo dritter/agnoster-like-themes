@@ -97,7 +97,7 @@ All these rely on Prezto.
 
 ### ZIM Themes
 
-* [Eriner](https://github.com/Eriner/zim/blob/master/modules/prompt/themes/eriner.zsh-theme) - For zim
+* [Eriner](https://github.com/zimfw/eriner) - For zim
 
 ## Fish-Themes
 There are a couple of agnoster-ports for Oh-my-Fish as well:
